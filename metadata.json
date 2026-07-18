@@ -1,0 +1,6 @@
+{
+  "name": "나이스 급식 AI 한줄평",
+  "description": "나이스 급식 API와 Gemini API를 활용하여 급식 식단 정보 및 재미있는 캐릭터별 AI 한줄평을 제공하는 서비스입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
